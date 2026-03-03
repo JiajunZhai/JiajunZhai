@@ -1,6 +1,4 @@
-[English Version](README_EN.md)
-
-# 👋 你好，我是翟佳骏 (Jiajun Zhai)
+# 👋 你好，我是Kian (Jiajun Zhai)
 
 **效率架构师 | 准 AI 产品经理**  
 *用 AI 的逻辑，终结无尽的重复。*
