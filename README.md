@@ -1,3 +1,5 @@
+[English Version](README_EN.md)
+
 # 👋 你好，我是Kian (Jiajun Zhai)
 
 **效率架构师 | 准 AI 产品经理**  
@@ -24,6 +26,7 @@
 ### 📊 开发者统计
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JiajunZhai&show_icons=true&theme=transparent&hide_border=true&title_color=333&text_color=666&icon_color=333" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiajunZhai&layout=compact&theme=transparent&hide_border=true&title_color=333&text_color=666" height="150" alt="languages" />
 </p>
 
 ### ☕ 建立联系

@@ -1,6 +1,6 @@
 [中文版本](README.md)
 
-# 👋 Hi, I'm Jiajun Zhai
+# 👋 Hi, I'm Kian （Jiajun Zhai）
 
 **The Automator & Aspiring AI Product Manager**  
 *Defining the logic that replaces the repetition.*
@@ -23,9 +23,10 @@ I spent years navigating through endless browser repetitions and manual clicks. 
 - **Architecture:** ![Java](https://img.shields.io/badge/Java-333333?style=flat-square&logo=java&logoColor=white)
 - **AI Mastery:** Prompt Engineering, Workflow Optimization, Data Insights.
 
-### 📊 Stats
+### 📊 Stats & Activity
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JiajunZhai&show_icons=true&theme=transparent&hide_border=true&title_color=333&text_color=666&icon_color=333" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiajunZhai&layout=compact&theme=transparent&hide_border=true&title_color=333&text_color=666" height="150" alt="languages" />
 </p>
 
 ### ☕ Connectivity
